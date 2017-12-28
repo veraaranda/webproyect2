@@ -1,0 +1,42 @@
+body {
+  background-color: white;
+  background-repeat: no-repeat;
+  background-position: rigth top;
+  background-size: cover;
+}
+div#about_titulo h1 {
+  font-size: 950%;
+  text-align: center;
+  color: #ffffb3;
+  background-color: #ff4d4d;
+  background-image:  url(http://cdn.themexicantimes.mx/wp-content/uploads/2016/02/csm_header_produkte_tisch_09_5e90b9a995.jpg);
+  font-style: italic;
+}
+div#menu{
+  text-align: center;
+}
+li {
+  display: inline-block;
+}
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: none;
+  font-size: 250%;
+  text-align: center;
+  color: black;
+  text-shadow: 2px 1px darkmagenta;
+}
+
+p {
+  font-size: 300%;
+  color: black;
+  text-align: center;
+}
+div#botones {
+  text-align: center;
+}
+h4 {
+  color: orange;
+}
